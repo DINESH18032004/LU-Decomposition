@@ -15,7 +15,7 @@ Step 1:
 
 Import numpy and scipy from the python library.
 
-Step 2:\
+Step 2:
 
 Get the input from the user in array format.
 
@@ -46,6 +46,7 @@ print(L)
 print(U)
 */
 ```
+
 (ii) To find the LU Decomposition of a matrix
 '''Program to solve a matrix using LU decomposition.
 Developed by: DINESH KUMAR R
