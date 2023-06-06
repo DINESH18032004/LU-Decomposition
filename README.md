@@ -35,19 +35,26 @@ End the program.
 
 (i) To find the L and U matrix
 
-'''Program to find L and U matrix using LU decomposition.
+
+```
+
+Program to find L and U matrix using LU decomposition.
+
 Developed by: DINESH KUMAR R
+
 RegisterNumber: 212222110010
-'''
+
+
 import numpy as np
 from scipy.linalg import lu
 A=np.array(eval(input()))
 P,L,U=lu(A)
 print(L)
 print(U)
+
 */
 ```
-
+```
 (ii) To find the LU Decomposition of a matrix
 '''Program to solve a matrix using LU decomposition.
 Developed by: DINESH KUMAR R
